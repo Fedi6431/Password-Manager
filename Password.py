@@ -1,4 +1,5 @@
 import json
+import os
 
 #Function to load existing passwords from a file
 def load_passwords(filename):
@@ -27,10 +28,12 @@ if __name__ == "__main__":
     passwords = load_passwords(password_file)
 
     while True:
+        os.system("cls")
         print("\nOptions:")
         print("1. Add a new password")
         print("2. Retrieve a password")
         print("3. Quit")
+        print("                              Made by Fedi6431")
 
         choice = input("Enter your choice: ")
 
