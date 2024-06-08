@@ -16,3 +16,5 @@ Delete a password an username and the site to the database
 
 #### - 3
 Quit
+
+## ⚠ Disclaimer: this isn't a real password manager ⚠
