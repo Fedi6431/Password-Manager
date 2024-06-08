@@ -1,5 +1,6 @@
 # Password manager
 ## ⚠ Disclaimer: this isn't a real password manager ⚠
+## ⚠ WARNING: this code work only on windows ⚠
 
 ## User guide 
 ### Password manager 
