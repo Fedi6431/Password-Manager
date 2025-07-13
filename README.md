@@ -51,9 +51,6 @@ stored_password = get_password(passwords, "example.com")
 print(stored_password)
 ```
 
-## License
-MIT
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
